@@ -1,0 +1,25 @@
+#Owner:
+#  tabprefix: "&0&l[&a&lDono&0&l] &a"
+#  tagprefix: "&2&lDono &a"
+Player:
+  tabprefix: "&0&l[&7&lJogador&0&l] &3"
+  tagprefix: "&2&lJogador &3"
+example_group:
+  header:
+    - "Este é um exemplo de cabeçalho/rodapé por grupo"
+  footer:
+    - "aplicado a um grupo"
+
+ # configurações padrão para todos os grupos; todos os grupos herdarão as propriedades desta seção, a menos que o grupo primário do jogador sobrescreva alguma configuração
+_DEFAULT_:
+  tabprefix: "%luckperms-prefix%"
+  tagprefix: "%luckperms-prefix%"
+  customtabname: "%player%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"
+
+per-world:
+  world1:
+    Owner:
+      tabprefix: "&0&l[&a&lDono&0&l] &a"
+      tagprefix: "&2&lDono &a"

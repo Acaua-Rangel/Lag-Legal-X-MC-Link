@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.97.4.51
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745688923218
+  login: 1745688808255
+money: '0'
+last-account-name: .KUNK3013
+logoutlocation:
+  world: f3950980-765b-434f-a319-a73f51878bca
+  world-name: world
+  x: 22.340551
+  y: 103.0
+  z: -105.7586
+  yaw: -0.7914276123046875
+  pitch: 26.1419677734375
